@@ -28,9 +28,7 @@ This report explores the role of Security Operations Centers (SOC) in modern cyb
 ## References
 A list of academic and industry sources supporting the research.
 
-## Author
-- **Name**: [Your Name]
-- **Supervisor**: Dr. Issa Traore
+
 
 ## Acknowledgments
 Thanks to research advisors, faculty members, and colleagues who contributed to this study.
